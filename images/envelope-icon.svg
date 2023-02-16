@@ -1,0 +1,23 @@
+<svg  xmlns="http://www.w3.org/2000/svg" 
+	 width="400px" height="400px">
+	 <symbol id="envelope" viewBox="0 0 400 400">
+      <rect
+        x="50"
+        y="100"
+        rx="10"
+        ry="10"
+        width="300"
+        height="250"
+        style="fill: none; stroke: black; stroke-width: 15"
+      />
+      <polyline
+        points="50,100 200,250 350,100"
+        style="
+          fill: none;
+          stroke: black;
+          stroke-width: 15;
+          stroke-linejoin: round;
+        "
+      />
+	</symbol>
+</svg>
